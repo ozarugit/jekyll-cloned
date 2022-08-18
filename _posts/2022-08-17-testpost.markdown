@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test post2"
+title:  "Test post"
 date:   2022-08-16 10:02:13 +0200 left unchanged
 categories: jekyll update
 ---
